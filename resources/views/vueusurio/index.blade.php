@@ -1,0 +1,9 @@
+@extends('layouts.app')
+
+@section('content')
+    <div id="app" class="content">
+        <usurio-component></usurio-component>
+    </div>
+
+@endsection
+
